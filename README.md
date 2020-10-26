@@ -3,6 +3,7 @@
 # Etapas para rodar o projeto
 
 * Crie uma database;
+* Renomeie o arquivo env para .env
 * E configure seu banco de acordo com sua máquina no .env
 * Rode o comando php spark migrate;
 * Rode o comando php spark serve;
