@@ -3,7 +3,7 @@
 # Etapas para rodar o projeto
 
 * Crie uma database;
-* Conecte ao banco;
+* E configure seu banco de acordo com sua máquina no .env
 * Rode o comando php spark migrate;
 * Rode o comando php spark serve;
 * Antes de cadastrar os pacientes, cadastre um administrador.
